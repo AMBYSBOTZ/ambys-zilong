@@ -1,5 +1,5 @@
-// Script Ori By BochilGaming
-// Ditulis Ulang Oleh ImYanXiao
+// Script Ori By AMBYS TITLED
+// Ditulis Ulang Oleh XIAO SAN
 // Cara Ganti Menu? Hilangin Tanda // 
 // Lalu Ganti Ke Menu Sebelumnya
 
