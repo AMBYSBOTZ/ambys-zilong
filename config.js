@@ -6,7 +6,7 @@
 // • Allah SWT
 // • Tioxd
 // • Xiao San
-// • Mark Zuckerbrug
+// • Mark Zuckerberg
 // • Verdihatoru
 
 //[!] Jangan Lupa Ganti Ownernya
